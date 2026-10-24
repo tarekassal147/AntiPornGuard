@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# بيانات محلية
+*.db
+screenshots/
+
+# بيئات افتراضية
+venv/
+.venv/
+env/
